@@ -33,9 +33,9 @@
 
 
 
-<u>**Project Description: Analysis on the World Happiness Report 2024**</u>
+### **Project Description: Analysis on the World Happiness Report 2024**
 
-**Overview**
+### **Overview**
 
 This project aims to conduct a detailed correlation analysis of the data provided in the World Happiness Report 2024. The report typically ranks countries worldwide based on various determinants of happiness such as GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption. The goal of this analysis is to identify and understand the relationships between these factors and overall happiness scores to determine which variables most significantly impact happiness across different nations. We also tested alternative hypotheses on Happiness Score including the affect of income inequality, population, and age.
 
