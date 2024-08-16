@@ -1,11 +1,10 @@
 
 
 
-World Happiness 2024
+# World Happiness 2024
 
-Project 1
-
-Team members: Shariq Khatri, Jennifer Mancheno, Anwer Dolemeri, Deniza Robinson
+## Project 1
+**Team members**: <u>Shariq Khatri, Jennifer Mancheno, Anwer Dolemeri, Deniza Robinson</u>
 
 
 
@@ -34,7 +33,7 @@ Team members: Shariq Khatri, Jennifer Mancheno, Anwer Dolemeri, Deniza Robinson
 
 
 
-**Project Description: Analysis on the World Happiness Report 2024**
+<u>**Project Description: Analysis on the World Happiness Report 2024**</u>
 
 **Overview**
 
